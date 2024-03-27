@@ -1,0 +1,13 @@
+# include<stdio.h>
+#include<stdio.h>
+int main()
+{
+printf("/n the ceil() 0f 3.6 is %f",ceil(3.6));
+printf("/n the floor() of 3.6 is %f",floor(3.6));
+printf("/n the square root of 16 is %f",sqrt(16));
+printf("/n the square root of 7 is %f",sqrt(7));
+printf("/n the power of 2^4 is %f",pow(2,4));
+printf("/n the power of 3^3 is %f",(3,3));
+printf("/n the absolute value of -12 is %d",abs(-12));
+return 0;
+ }
